@@ -73,3 +73,5 @@ Once the agent is live, you can interact with it naturally:
 ✅ **Real-World Workflow:** Solving the specific problem of career management and networking.
 
 Developed by Arjid Biju for the Google Gen AI Academy APAC 2026.
+<img width="1913" height="911" alt="hackthon 2" src="https://github.com/user-attachments/assets/8fdc3b22-7a2f-480f-903d-41ed09e2909e" />
+<img width="1918" height="912" alt="hackthon 1" src="https://github.com/user-attachments/assets/4db6b337-e337-420b-b235-0ccc8bf58d86" />
