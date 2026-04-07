@@ -41,6 +41,10 @@ The project follows a **Sequential Agent Workflow**:
 * Python 3.10+
 * Google Cloud Project with **Datastore API** enabled.
 * A Gemini API Key from **Google AI Studio**.
+**PROCRESS FLOW DIAGRAM :**
+
+
+  <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/41c6d036-ae6f-4899-94ca-630b78b48b30" />
 
 **Installation**
 1.  **Clone the repo:**
@@ -72,6 +76,9 @@ Once the agent is live, you can interact with it naturally:
 ✅ **MCP Integration:** Standardized tool logic for database interactions.
 ✅ **Real-World Workflow:** Solving the specific problem of career management and networking.
 
-Developed by Arjid Biju for the Google Gen AI Academy APAC 2026.
+WORKING : 
 <img width="1913" height="911" alt="hackthon 2" src="https://github.com/user-attachments/assets/8fdc3b22-7a2f-480f-903d-41ed09e2909e" />
 <img width="1918" height="912" alt="hackthon 1" src="https://github.com/user-attachments/assets/4db6b337-e337-420b-b235-0ccc8bf58d86" />
+
+
+Developed by Arjid Biju for the Google Gen AI Academy APAC 2026.
